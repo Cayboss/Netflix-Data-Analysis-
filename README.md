@@ -1,7 +1,7 @@
 # Netflix-EDA
 Netflix is a streaming service that allows our members to watch a wide variety of award-winning TV shows, movies, documentaries, and more on thousands of internet-connected devices. With Netflix, you can enjoy unlimited ad-free viewing of  content. This is an exploratory data analysis on its data (up to 2021).
 
-The analysis answers the following questions:
+## The analysis aims to answers the following questions:
 
 In which year were the highest number of contents released? 
 
